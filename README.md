@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the **Observer Pattern** in Java as part of a lab assignment. The assignment consists of two main parts:
 
-**Part 1: Basic Observer Pattern Implementation**  
+## **Part 1: Basic Observer Pattern Implementation**  
 This part is based on the **tutorialspoint.com** example and includes the following modifications:  
 
 - **Added a `detach(Observer o)` method** in the `Subject` class to remove observers.  
